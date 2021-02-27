@@ -1,6 +1,5 @@
 # ব্যর্থ উদ্যোক্তা - Failed Entreprenurs
 
-<?xml version="1.0" encoding="utf-8"?>
 <svg viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
   <defs>
     <clipPath id="clip-0">
